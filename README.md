@@ -14,7 +14,7 @@ The project is deployed on Vercel:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Konaisya/next-mini-blog.git
+git clone https://github.com/Konaisya/next-blog-demo
 
 cd next-mini-blog
 
