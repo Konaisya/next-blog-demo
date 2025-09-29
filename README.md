@@ -8,7 +8,7 @@ A mini-blog built with **Next.js 15 + TypeScript**, featuring:
 
 ## 🚀 Live Demo
 The project is deployed on Vercel:  
-👉 [https://next-mini-blog.vercel.app](https://next-mini-blog.vercel.app)
+👉 [https://next-blog-demo-delta.vercel.app/)
 
 ## 📦 Installation & Setup
 
